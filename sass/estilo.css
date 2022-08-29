@@ -12,7 +12,7 @@ html {
 
 /* Main */
 .main1 {
-  background-image: url(../Multimedia/fondo_blanco_ladrillo_cemento.jpg);
+  background-image: url(../multimedia/fondo_blanco_ladrillo_cemento.jpg);
   width: 100%;
   grid-template-columns: 100%;
   grid-template-rows: 1fr 1fr 1fr 1fr;
